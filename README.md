@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+I'm currently learning Java Script. I'm most comfortable in Python (NumPy, Numba, SciPy) but still limited very limited!
 <!--
 **fionnualasolomon/fionnualasolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
